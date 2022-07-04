@@ -1,6 +1,6 @@
 [project]
 name = "svd-quantum-dynamics"
-version = "0.1.0"
+version = "1.0.0"
 description = "A notebook blog-post for blog.teaochadesign.com"
 authors = [
     { name = "Matthew Bilton", email = "matt@teaochadesign.com" }
